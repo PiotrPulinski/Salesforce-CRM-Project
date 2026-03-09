@@ -1,2 +1,31 @@
-# crm-system
-Simple CRM system for managing customers
+Simple CRM application for managing customers.
+
+## Features
+
+- add customer
+- edit customer
+- delete customer
+- search customers
+
+## Tech stack
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Node.js
+- Express
+
+Database:
+- SQLite
+
+## Screenshots
+
+(zdjęcie aplikacji)
+
+## Future improvements
+
+- authentication
+- sales dashboard
