@@ -18,9 +18,6 @@ Backend:
 - Node.js
 - Express
 
-Database:
-- SQLite
-
 ⭐ Future improvements
 
 - authentication
