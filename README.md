@@ -1,13 +1,13 @@
 Simple CRM application for managing customers.
 
-## Features
+⭐ Features
 
 - add customer
 - edit customer
 - delete customer
 - search customers
 
-## Tech stack
+⭐ Tech stack
 
 Frontend:
 - HTML
@@ -21,11 +21,9 @@ Backend:
 Database:
 - SQLite
 
-## Screenshots
+⭐ Screenshots
 
-(zdjęcie aplikacji)
-
-## Future improvements
+⭐ Future improvements
 
 - authentication
 - sales dashboard
