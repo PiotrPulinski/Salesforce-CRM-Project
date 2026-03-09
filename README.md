@@ -21,8 +21,6 @@ Backend:
 Database:
 - SQLite
 
-⭐ Screenshots
-
 ⭐ Future improvements
 
 - authentication
