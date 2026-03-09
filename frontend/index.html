@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>CRM Dashboard</h1>
+
+<div class="stats">
+
+<div class="card">
+<h3>Total Customers</h3>
+<p id="totalCustomers">0</p>
+</div>
+
+</div>
+
+<h2>Add Customer</h2>
+
+<input id="name" placeholder="Name">
+<input id="lastname" placeholder="Last Name">
+<input id="company" placeholder="Company">
+
+<button class="add" onclick="addCustomer()">Add Customer</button>
+
+<h2>Customers</h2>
+
+<ul id="customerList"></ul>
+
+<script src="app.js"></script>
+
+</body>
+
+</html>
